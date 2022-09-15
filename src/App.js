@@ -4,6 +4,7 @@ import YTSearch from 'youtube-api-search';
 import SearchBar from './components/SearchBar/SearchBar';
 import VideoList from './components/VideoList/VideoList';
 import VideoDetail from './components/VideoDetail/VideoDetail';
+import Header from './src/components/header/header'
 import Nav from './components/Nav/Nav';
 // styles
 import { Container } from './appStyles.js';
